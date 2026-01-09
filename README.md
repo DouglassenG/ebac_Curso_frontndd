@@ -14,10 +14,6 @@ O propósito deste repositório é documentar a **trajetória de aprendizado**. 
 
 Ele resolve o desafio de organização de estudos, permitindo comparação entre códigos antigos (fundamentos) e novos (arquiteturas modernas), além de servir como biblioteca de consulta para soluções de layouts, animações CSS e funções JavaScript.
 
-## 🖼️ Demonstração Visual
-
-*(Espaço reservado para screenshots. Sugestão: Coloque prints de 2 ou 3 exercícios diferentes lado a lado para mostrar variedade)*
-
 ## 🛠️ Tecnologias Utilizadas
 
 A stack tecnológica abrange todo o ciclo básico e intermediário do desenvolvimento web:
